@@ -5,3 +5,13 @@ body {
   background-image: url(dice.jpeg);
   background-size: contain;
 }
+.player0, .player1 {
+  background-color: skyblue;
+  float:left;
+  font-family: fantasy;
+  width: 50%;
+  height: 400px;
+  padding: 100px;
+  margin-top: 0.5em;
+
+}
