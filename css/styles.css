@@ -6,7 +6,7 @@ body {
   background-size: contain;
 }
 .player0, .player1 {
-  background-color: skyblue;
+  background-color: grey;
   float:left;
   font-family: fantasy;
   width: 50%;
@@ -19,4 +19,13 @@ body {
   margin-top: 200px;
   padding-right: 100px;
   clear: left;
+}
+.current-box {
+  border-style: outset;
+}
+.playerone, .playertwo p {
+  font-family: fantasy;
+}
+.active {
+  opacity: 0.9;
 }
