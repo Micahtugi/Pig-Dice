@@ -1,4 +1,4 @@
-//Business Logic
+//Back-end code
 var finalTally = [0,0];//array with two values(score for player 1 and score for player 2)
 var total = 0;
 var currentPlayer = 0;
@@ -77,7 +77,7 @@ var nextPlayer = function() {
 
 }
 
-// user interface
+// front-end code
 
 $("#roll").click(function() {
    rollDice();
