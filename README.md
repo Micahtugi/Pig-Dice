@@ -5,6 +5,12 @@
 This game is played by rolling a six-sided die and the first player to reach 100 points is alerted to have won the game. After rolling the dice a player can opt to hold and let the opponent player to roll the dice.
 ## Setup Requirements
 Click on the gh-pages link provided on the description bar of this repository on Github to start.
+## BDD
+|    Behaviour        |     Output              |
+|--------------------:|:-------------------------|
+|Player clicks roll | The dice rolls on the player who is active|
+|Player clicks hold | The opponent player is given a chance to roll the dice|
+|Player reaches 100 points| The player is alerted to have won the game|
 ## Known bugs
 There are no known bugs yet but incase you come across one you can write me an email @micahkimathi@gmail.com
 ## Support and contact details
