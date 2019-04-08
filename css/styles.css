@@ -3,7 +3,7 @@ h1 {
 }
 body {
   background-image: url(dice.jpeg);
-  background-size: contain;
+  
 }
 .player0, .player1 {
   background-color: grey;
